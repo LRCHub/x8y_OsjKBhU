@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "あじさい通り",
+  "base_artist": "CreepHyp",
+  "createdAt": "2025-12-20T07:50:53.176172Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あじさい通り",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_あじさい通り_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あじさい通り",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_あじさい通り_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あじさい通り",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/03_あじさい通り_SPITZ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あじさい通り",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_あじさい通り_クリープハイプ.txt"
+    }
+  ]
+}
